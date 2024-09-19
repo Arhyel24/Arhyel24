@@ -1,7 +1,8 @@
-# Enoch Philip dibal <img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" /> </p>
+# ENOCH PHILIP DIBAL
+<img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" /> </p>
 Software Developer | Building Scalable and Efficient Solution
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhyel24&" alt="Wyteshadow" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhyel24&" alt="Wyteshadow" /></p>
 
 **About Me**
 Hi, I'm Enoch Philip Dibal, a passionate software developer with a strong background in building scalable and efficient software solutions. I'm proficient in a range of programming languages, including JavaScript, TypeScript, HTML, and CSS, and have a strong understanding of front-end and back-end development, with expertise in Express, Next.js, React, and MongoDB.

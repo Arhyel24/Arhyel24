@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enoch Philip Dibal - Software Developer</title>
-</head>
 <body>
     <div style="max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <div style="text-align: center; margin-bottom: 20px;">

@@ -4,12 +4,12 @@
     <div style="max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <div style="text-align: center; margin-bottom: 20px;">
             <h1 style="margin-bottom: 10px;">Enoch Philip Dibal</h1>
-            <img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" style="width: 100px; height: 100px; border-radius: 50%; margin: 20px;" />
+            <img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" style="width: 100px; border-radius: 50%; margin: 20px;" />
             <p style="font-size: 18px; font-weight: bold;">Software Developer | Building Scalable and Efficient Solutions</p>
         </div>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhyel24&" alt="Wyteshadow" style="width: 200px; height: 200px; margin: 10px;" />
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhyel24&show_icons=true&locale=en&layout=compact" alt="Wyteshadow" style="width: 200px; height: 200px; margin: 10px;" />
+        <div style="display: flex; flex-direction: row; justify-content: center; margin-bottom: 20px;">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhyel24&" alt="Wyteshadow" style="width: 100%; height: 100%; margin: 10px;" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhyel24&show_icons=true&locale=en&layout=compact" alt="Wyteshadow" style=" 100%; height: 100% margin: 10px;" />
         </div>
         <div style="margin-bottom: 20px;">
             <h2 style="margin-top: 0;">About Me</h2>

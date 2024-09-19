@@ -1,6 +1,9 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" /> </p>
 
 <a href="https://app.daily.dev/enochphilipdibal"><img src="./devcard.png" width="356" alt="Enoch's Dev Card"/></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhyel24&column=-1&no-bg=trueno-frame=true&theme=darkhub" alt="pokevci" /></a> </p>
 
 
 **Arhyel24/Arhyel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

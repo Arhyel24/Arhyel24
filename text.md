@@ -3,7 +3,7 @@
 <body>
     <div style="max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <div style="text-align: center; margin-bottom: 20px;">
-            <h1 style="margin-bottom: 10px; font-size: 20px">Enoch Philip Dibal</h1>
+            <h1 style="margin-bottom: 10px; font-size: 40px">Enoch Philip Dibal</h1>
             <img src="https://komarev.com/ghpvc/?username=arhyel24&label=PROFILE+VIEWS&color=blueviolet&style=flat&abbreviated=true" alt="Arhyel24" style="width: 100px; border-radius: 50%; margin: 20px;" />
             <p style="font-size: 18px; font-weight: bold;">Software Developer | Building Scalable and Efficient Solutions</p>
         </div>

@@ -13,7 +13,7 @@
         <div style="margin-bottom: 20px;" dispay: flex; flex-direction: column>
             <h2 style="margin-top: 0;">About Me</h2>
             <p style="font-size: 16px;">Hi, I'm Enoch Philip Dibal, a passionate software developer with a strong background in building scalable and efficient software solutions. I'm proficient in a range of programming languages, including JavaScript, TypeScript, HTML, and CSS, and have a strong understanding of front-end and back-end development, with expertise in Express, Next.js, React, and MongoDB.</p>
-            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhyel24&show_icons=true&locale=en&layout=compact" alt="Wyteshadow" style=" width: 100%; margin: 10px;" /></p>
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhyel24&show_icons=true&locale=en&layout=compact" alt="Wyteshadow" style=" width: 100%; margin: 10px;" />
         </div>
         <div style="margin-bottom: 20px;">
             <h2 style="margin-top: 0;">Achievements</h2>

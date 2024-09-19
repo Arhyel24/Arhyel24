@@ -17,11 +17,13 @@
         </div>
         <div style="margin-bottom: 20px;">
             <h2 style="margin-top: 0;">Achievements</h2>
+            <p>
             <ul style="list-style: none; padding: 0; margin: 0;">
                 <li style="margin-bottom: 10px;">Developed multiple scalable and efficient web applications using Next.js and Express, resulting in improved user experience and increased productivity.</li>
                 <li style="margin-bottom: 10px;">Successfully implemented responsive and interactive UI components using React, Tailwind, and CSS, enhancing overall user engagement.</li>
                 <li style="margin-bottom: 10px;">Designed and implemented a robust database schema using MongoDB, ensuring data consistency and integrity.</li>
             </ul>
+            </p>
             <p align="left" style="margin-bottom: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhyel24&column=-1&no-bg=true&no-frame=true&theme=darkhub" alt="wyteshadow" /></a> </p>
         </div>
         <div style="margin-bottom: 20px;">

@@ -42,6 +42,7 @@
                 <li style="margin-bottom: 10px;">Styling: Tailwind, CSS</li>
                 <li style="margin-bottom: 10px;">Other skills: Responsive design, Interactive UI components, Scalable architecture</li>
             </ul>
+            <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arhyel24&show_icons=true&locale=en" alt="Wyteshdow" /></p>
         </div>
         <div style="margin-bottom: 20px;">
             <h2 style="margin-top: 0;">Get in Touch</h2>

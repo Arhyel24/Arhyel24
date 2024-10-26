@@ -45,18 +45,17 @@
             <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arhyel24&show_icons=true&locale=en" alt="Wyteshdow" /></p>
         </div>
         <div style="margin-bottom: 20px;">
-            <h2 style="margin-top: 0;">Get in Touch</h2>
-            <p style="font-size: 16px;">Feel free to reach out to me on <a href="mailto:arhyelphilip024@gmail.com">arhyelphilip024@gmail.com</a> or <a href="https://www.linkedin.com/in/aehyel24/">LinkedIn</a>.</p>
         </div>
         <div style="margin-bottom: 20px;">
             <h2 style="margin-top: 0;">Developer Ranking</h2>
-            <h2 style="margin-top: 0;">Global</h2>
+            <h2 style="margin-top: 0;font-size: 16px;">Global</h2>
             <a href="https://stardev.io/developers/Arhyel24"><img alt="Check out Arhyel24&apos;s profile on stardev.io" src="https://stardev.io/developers/Arhyel24/badge/languages/global.svg" /></a>
-            <h2 style="margin-top: 0;">Country</h2>
+            <h2 style="margin-top: 0;font-size: 16px;">Country</h2>
             <a href="https://stardev.io/developers/Arhyel24"><img alt="Check out Arhyel24's profile on stardev.io" src="https://stardev.io/developers/Arhyel24/badge/languages/country.svg" /></a>
-            <h2 style="margin-top: 0;">Locally</h2>
+            <h2 style="margin-top: 0;font-size: 16px;">Locally</h2>
             <a href="https://stardev.io/developers/Arhyel24"><img alt="Check out Arhyel24's profile on stardev.io" src="https://stardev.io/developers/Arhyel24/badge/languages/locality.svg" /></a>
-            <h2 style="margin-top: 0;">Let's Connect</h2>
+            <h2 style="margin-top: 0;">Get in Touch</h2>
+            <p style="font-size: 16px;">Feel free to reach out to me on <a href="mailto:arhyelphilip024@gmail.com">arhyelphilip024@gmail.com</a> or <a href="https://www.linkedin.com/in/aehyel24/">LinkedIn</a>.</p>
             <p style="font-size: 16px;"><a href="https://github.com/arhyel24">GitHub</a> | <a href="https://x.com/arhyel24">Twitter</a> | <a href="https://www.linkedin.com/in/arhyel24/">LinkedIn</a></p>
             <a href="https://app.daily.dev/enochphilipdibal"><img src="./devcard.png" width="356" alt="Enoch's Dev Card" style="margin-bottom: 20px;" /></a>
         </div>

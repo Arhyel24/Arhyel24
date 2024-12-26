@@ -43,6 +43,7 @@
                 <li style="margin-bottom: 10px;">Other skills: Responsive design, Interactive UI components, Scalable architecture</li>
             </ul>
             <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=arhyel24&show_icons=true&locale=en" alt="Wyteshdow" /></p>
+            <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676db3c670129741a86bce35?variant=light" alt="roadmap.sh"/></a>
         </div>
         <div style="margin-bottom: 20px;">
         </div>
